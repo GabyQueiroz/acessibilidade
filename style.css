@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.transcricao {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.transcricao:hover {
+  background-color: #f0f0f0;
+}
